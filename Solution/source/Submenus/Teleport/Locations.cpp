@@ -285,6 +285,7 @@ namespace sub::TeleportLocations_catind
 			TeleLocation("Meth Lab", 1391.773f, 3608.716f, 38.942f),
 			TeleLocation("Weed Farm", 2208.777f, 5578.235f, 53.735f),
 			TeleLocation("Wind Farm", 2354.0f, 1830.3f, 101.1f),
+			TeleLocation("LS Tuners Garage (Burton)", -167.1f, -36.4f, 52.6f),
 		};
 #pragma endregion
 #pragma region high locations
